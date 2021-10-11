@@ -1256,6 +1256,18 @@
             "pid": "55af8446-e910-46e2-a7e3-6907c94f1995",
             "id": "c9e085b3-9569-43f1-828a-b1a34cf66f1d",
             "createTime": 1632713185753
+        },
+        {
+            "id": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
+            "pid": "7df246c3-42a2-4e26-b5b1-736bed8ee94e",
+            "title": "qa",
+            "createTime": 1633913904758
+        },
+        {
+            "id": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
+            "pid": "7df246c3-42a2-4e26-b5b1-736bed8ee94e",
+            "title": "stg",
+            "createTime": 1633914008838
         }
     ],
     "website": [
@@ -11884,7 +11896,7 @@
             "desc": "萝卜投研是利用人工智能、大数据、移动应用技术，建立的股票基本面分析智能投研平台，利用萝卜投研高效处理投资资讯，公告，研报，财报，数据等信息，满足用户对股票证券研究、价值投资分析的需求。专业投资，从智能搜索开始",
             "icon": "http://robor.wmcloud-qa.com/v2/favicon.ico",
             "url": "http://robor.wmcloud-qa.com/v2",
-            "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
+            "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
             "id": "21921336-2ee0-49af-9e27-b3051fdc8915",
             "createTime": 1631553520385,
             "star": true
@@ -11894,7 +11906,7 @@
             "desc": "萝卜投研是利用人工智能、大数据、移动应用技术，建立的股票基本面分析智能投研平台，利用萝卜投研高效处理投资资讯，公告，研报，财报，数据等信息，满足用户对股票证券研究、价值投资分析的需求。专业投资，从智能搜索开始",
             "icon": "http://robor.wmcloud-qa.com/v2/favicon.ico",
             "url": "https://robo.datayes-stg.com",
-            "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
+            "pid": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
             "id": "817e261f-27e1-49a9-8421-c3e5fdea8a9a",
             "createTime": 1631553632749,
             "star": true
@@ -11904,7 +11916,7 @@
             "desc": "萝卜投研研报中心:提供最新的上市公司研报，券商研报，行业研报，使投资者更早的了解到上市公司基本面变化，方便个股投研和评级。",
             "icon": "https://m-robo-qa.datayes-stg.com/favicon.ico",
             "url": "https://m-robo-qa.datayes-stg.com",
-            "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
+            "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
             "id": "9513cd58-53b0-4712-8ceb-22c1be1b5363",
             "createTime": 1631553747614,
             "star": true
@@ -11914,7 +11926,7 @@
             "desc": "萝卜投研研报中心:提供最新的上市公司研报，券商研报，行业研报，使投资者更早的了解到上市公司基本面变化，方便个股投研和评级。",
             "icon": "https://m-robo.datayes-stg.com/favicon.ico",
             "url": "https://m-robo.datayes-stg.com",
-            "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
+            "pid": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
             "id": "cfa4a708-87da-43b5-89b0-4cf09696a880",
             "createTime": 1631553769399,
             "star": true
