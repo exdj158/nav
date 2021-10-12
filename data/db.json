@@ -12152,6 +12152,26 @@
             "pid": "816106a8-663d-487a-8a01-3273524353a6",
             "id": "22da198c-f147-4698-9b5a-175a569f3af7",
             "createTime": 1632910187891
+        },
+        {
+            "title": "酷站导航 | 为你网罗互联网上最实用有趣的资源",
+            "desc": "酷站导航(coolzhanweb.com)汇集全网优质网址和资源。你可以自定义上网常用网址、自定义你需要的工具模块。旨在为用户提供酷站导航,网址导航,网站导航,网址之家,上网导航,网址大全,分类目录。",
+            "icon": "https://www.coolzhanweb.com/wp-content/uploads/2020/10/favicon1.png",
+            "url": "https://coolzhanweb.com",
+            "pid": "1136ed92-bb0a-4e4c-b004-da2d302b2f3b",
+            "id": "fa7135b6-3604-45d0-a139-3947d4debf0a",
+            "createTime": 1634035661793,
+            "star": true
+        },
+        {
+            "title": "一言开发者中心",
+            "desc": "一言，用代码表达言语的魅力，用代码书写山河的壮丽。本文档提供一言开发接口的使用说明，SDK，常见问题。",
+            "icon": "https://developer.hitokoto.cn/favicon.ico",
+            "url": "https://developer.hitokoto.cn",
+            "pid": "1136ed92-bb0a-4e4c-b004-da2d302b2f3b",
+            "id": "75c8501e-f34c-4b90-a87f-e2e50d9b8c17",
+            "createTime": 1634039214252,
+            "star": true
         }
     ]
 }
