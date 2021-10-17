@@ -11893,9 +11893,9 @@
         },
         {
             "title": "中台-qa",
-            "desc": "萝卜投研是利用人工智能、大数据、移动应用技术，建立的股票基本面分析智能投研平台，利用萝卜投研高效处理投资资讯，公告，研报，财报，数据等信息，满足用户对股票证券研究、价值投资分析的需求。专业投资，从智能搜索开始",
-            "icon": "http://robor.wmcloud-qa.com/v2/favicon.ico",
-            "url": "http://robor.wmcloud-qa.com/v2",
+            "desc": "萝卜投研研报中心:提供最新的上市公司研报，券商研报，行业研报，使投资者更早的了解到上市公司基本面变化，方便个股投研和评级。",
+            "icon": "https://m-robo-qa.datayes-stg.com/favicon.ico",
+            "url": "http://rrp-mgmt.respool2.wmcloud-qa.com",
             "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
             "id": "21921336-2ee0-49af-9e27-b3051fdc8915",
             "createTime": 1631553520385,
@@ -12172,6 +12172,33 @@
             "id": "75c8501e-f34c-4b90-a87f-e2e50d9b8c17",
             "createTime": 1634039214252,
             "star": true
+        },
+        {
+            "title": "一为Api - 专业API提供 - 一为忆博客(iowen.cn)",
+            "desc": "一为忆博客(iowen.cn),免费提供Api服务",
+            "icon": "https://api.iowen.cn/favicon.ico",
+            "url": "https://api.iowen.cn",
+            "pid": "1136ed92-bb0a-4e4c-b004-da2d302b2f3b",
+            "id": "28dc77ab-984c-4bdb-8090-8b3e41e3b91f",
+            "createTime": 1634093812320
+        },
+        {
+            "title": "一为导航 | 设计师网址导航",
+            "desc": "一为忆 - 收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
+            "icon": "https://nav.iowen.cn/wp-content/uploads/2020/01/favicon.ico",
+            "url": "https://nav.iowen.cn",
+            "pid": "1136ed92-bb0a-4e4c-b004-da2d302b2f3b",
+            "id": "6500274c-46bd-486c-938d-c84d5df69574",
+            "createTime": 1634093846539
+        },
+        {
+            "title": "jQuery之家-自由分享jQuery、html5、css3的插件库",
+            "desc": "jQuery之家致力于搜集和整理各种jQuery插件，jQuery特效，jquery ui，jQuery 教程，JS特效，网页特效，以及各种html5，css3动画和效果，为前端开发者提供最全面的网页开发素材。",
+            "icon": "http://www.htmleaf.com/favicon.ico",
+            "url": "http://htmleaf.com",
+            "pid": "ee4468ed-8e2d-48ef-8c82-746bbda7b10a",
+            "id": "49e15703-787c-4457-8577-7c910ce2e171",
+            "createTime": 1634208630104
         }
     ]
 }
