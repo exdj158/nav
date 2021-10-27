@@ -11894,7 +11894,7 @@
         {
             "title": "中台-qa",
             "desc": "萝卜投研研报中心:提供最新的上市公司研报，券商研报，行业研报，使投资者更早的了解到上市公司基本面变化，方便个股投研和评级。",
-            "icon": "https://m-robo-qa.datayes-stg.com/favicon.ico",
+            "icon": "http://i2.hdslb.com/bfs/archive/c4e1d8d57de5d340e885bcf1a4114aa9c9ca2414.jpg",
             "url": "http://rrp-mgmt.respool2.wmcloud-qa.com",
             "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
             "id": "21921336-2ee0-49af-9e27-b3051fdc8915",
@@ -12199,6 +12199,32 @@
             "pid": "ee4468ed-8e2d-48ef-8c82-746bbda7b10a",
             "id": "49e15703-787c-4457-8577-7c910ce2e171",
             "createTime": 1634208630104
+        },
+        {
+            "title": "中国万向管理系统",
+            "icon": "https://ehr.chinawanxiang.com/favicon.ico",
+            "url": "https://ehr.chinawanxiang.com/Shell.view#afe919b58e034e03ada77e1ff0a343d6",
+            "pid": "78cd1bb5-2080-4a5c-9d2a-52641fdc2502",
+            "id": "b93db819-a58e-4079-817c-b261417c00e3",
+            "createTime": 1635245597565
+        },
+        {
+            "title": "consul",
+            "desc": "consul-stg",
+            "icon": "http://consul.wmcloud-stg.com/ui/static/favicon.png",
+            "url": "http://consul.wmcloud-stg.com/ui/#/dc1/kv/container/rrp/rrp-mgmt-CI/latest/hosts.json/edit",
+            "pid": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
+            "id": "d8c4b133-5368-4ad0-9c34-c9990ad90331",
+            "createTime": 1635332363434
+        },
+        {
+            "title": "consul",
+            "desc": "consul-qa",
+            "icon": "http://consul.wmcloud-stg.com/ui/static/favicon.png",
+            "url": "http://consul.wmcloud-qa.com/ui/#/dc1/kv/container/rrp/rrp-mgmt-CI/latest/hosts.json/edit",
+            "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
+            "id": "b794710c-8330-4fb9-aff6-885de0d462b7",
+            "createTime": 1635332413435
         }
     ]
 }
