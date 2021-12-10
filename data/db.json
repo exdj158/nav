@@ -1855,7 +1855,7 @@
         },
         {
             "title": "Hoppscotch",
-            "icon": "https://avatars2.githubusercontent.com/u/56705483?s=200&v=4",
+            "icon": "https://hoppscotch.io/_nuxt/icons/icon_64x64.062430.png",
             "desc": "一个免费，快速，美观的API请求构建器，供10万多个开发人员使用。(原名叫 Postwoman)",
             "url": "https://hoppscotch.io/",
             "urls": {},
@@ -5964,7 +5964,7 @@
         },
         {
             "title": "CSS3 UI Lib",
-            "desc": "CSS动画集成、在线调试阴影",
+            "desc": "CSS3 UI 库",
             "url": "http://css3lib.alloyteam.com/#panel/demo1",
             "urls": {},
             "rate": 5,
@@ -5982,7 +5982,8 @@
             "top": false,
             "id": "f1a701ec-9705-4cf4-b6a9-72a1fea3920d",
             "pid": "63bb06de-b76b-454f-b3f8-f570b9555116",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "icon": "https://assets.toptal.io/assets/front/static/favicons/favicon_ca7136.png"
         },
         {
             "title": "CSS渐变调试器",
@@ -6103,7 +6104,8 @@
             "top": false,
             "id": "b8438a0d-1642-499b-b9fe-2556828b0961",
             "pid": "63bb06de-b76b-454f-b3f8-f570b9555116",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "star": true
         },
         {
             "title": "在线CSS阴影调试",
@@ -6533,9 +6535,9 @@
             "createdTime": 1631497388473
         },
         {
-            "title": "iconfont",
-            "icon": "http://www.iconfont.cn/favicon.ico",
-            "desc": "阿里妈妈MUX倾力打造的矢量图标管理、交流平台",
+            "title": "iconfont-阿里巴巴矢量图标库",
+            "icon": "http://img.alicdn.com/imgextra/i4/O1CN01EYTRnJ297D6vehehJ_!!6000000008020-55-tps-64-64.svg",
+            "desc": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
             "url": "http://www.iconfont.cn/",
             "urls": {},
             "rate": 5,
@@ -11832,7 +11834,7 @@
             "pid": "78cd1bb5-2080-4a5c-9d2a-52641fdc2502",
             "id": "d77c0958-0ee7-4cc3-a586-1fab7f68f558",
             "createTime": 1631552454767,
-            "star": true
+            "star": false
         },
         {
             "title": "通联数据邮箱",
@@ -11852,7 +11854,7 @@
             "pid": "78cd1bb5-2080-4a5c-9d2a-52641fdc2502",
             "id": "f3f32598-ce21-4b96-8cc9-ec1cfb6b0191",
             "createTime": 1631552813771,
-            "star": true
+            "star": false
         },
         {
             "title": "MOMMP [Jenkins]",
@@ -11862,7 +11864,7 @@
             "pid": "78cd1bb5-2080-4a5c-9d2a-52641fdc2502",
             "id": "fb352e1f-61a2-44c0-8876-d95223d23fb7",
             "createTime": 1631552888180,
-            "star": true
+            "star": false
         },
         {
             "title": "rancher-stg",
@@ -11872,7 +11874,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "4485a0e2-4227-4ca5-a648-a3d6b11f9d0b",
             "createTime": 1631552954762,
-            "star": true
+            "star": false
         },
         {
             "title": "swagger-mammon",
@@ -11882,7 +11884,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "1cbefc32-29ad-41c7-8782-614f074c8d46",
             "createTime": 1631553045173,
-            "star": true
+            "star": false
         },
         {
             "title": "swagger-scrm",
@@ -11892,7 +11894,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "eeda2ede-d2bb-4850-941e-321b6540b05a",
             "createTime": 1631553314703,
-            "star": true
+            "star": false
         },
         {
             "title": "中台-qa",
@@ -11902,7 +11904,7 @@
             "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
             "id": "21921336-2ee0-49af-9e27-b3051fdc8915",
             "createTime": 1631553520385,
-            "star": true
+            "star": false
         },
         {
             "title": "中台-stg",
@@ -11912,7 +11914,7 @@
             "pid": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
             "id": "817e261f-27e1-49a9-8421-c3e5fdea8a9a",
             "createTime": 1631553632749,
-            "star": true
+            "star": false
         },
         {
             "title": "h5-qa",
@@ -11922,7 +11924,7 @@
             "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
             "id": "9513cd58-53b0-4712-8ceb-22c1be1b5363",
             "createTime": 1631553747614,
-            "star": true
+            "star": false
         },
         {
             "title": "h5-stg",
@@ -11932,7 +11934,7 @@
             "pid": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
             "id": "cfa4a708-87da-43b5-89b0-4cf09696a880",
             "createTime": 1631553769399,
-            "star": true
+            "star": false
         },
         {
             "title": "swagger-feature",
@@ -11942,7 +11944,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "7664233f-eeb8-4d91-9e0f-dd7a79abaf51",
             "createTime": 1631583040516,
-            "star": true
+            "star": false
         },
         {
             "title": "开发者武器库 · 属于程序员的工具箱",
@@ -11961,7 +11963,7 @@
             "pid": "78cd1bb5-2080-4a5c-9d2a-52641fdc2502",
             "id": "6af3038f-bba2-4bac-9941-167be4a0b488",
             "createTime": 1631755020808,
-            "star": true
+            "star": false
         },
         {
             "title": "GitLab-中台",
@@ -11971,7 +11973,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "2dbc19ea-650c-499d-9d0a-a6d7f91e612f",
             "createTime": 1631755105446,
-            "star": true
+            "star": false
         },
         {
             "title": "GitLab-h5",
@@ -11981,7 +11983,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "666b0084-2c71-496e-8fb5-7ff4cbcd47a1",
             "createTime": 1631755136609,
-            "star": true
+            "star": false
         },
         {
             "title": "视频文件",
@@ -11999,7 +12001,7 @@
             "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
             "id": "398f0aa8-9d0c-48c4-b624-6f9905d59ac0",
             "createTime": 1631862179950,
-            "star": true
+            "star": false
         },
         {
             "id": "a35db95f-0e09-47a4-bc03-4f3847de2371",
@@ -12274,6 +12276,52 @@
             "pid": "6021435f-08ea-4814-b292-509e26ee7e5e",
             "id": "db9adfc7-910b-41d5-bdef-532214f29c0a",
             "createTime": 1637720091864
+        },
+        {
+            "title": "CSS 灵感",
+            "desc": "csc inspiration guide online",
+            "icon": "https://chokcoco.github.io/logo2.png",
+            "url": "https://chokcoco.github.io/CSS-Inspiration",
+            "pid": "6da087ad-8e3d-4584-afe1-d1cd363aa27b",
+            "id": "e7bbe399-897a-4eff-bf06-028fee0169a4",
+            "createTime": 1639104236082
+        },
+        {
+            "title": "csslayout",
+            "desc": "纯 CSS 实现的一套页面元素、组件集",
+            "icon": "https://csslayout.io/favicon.png",
+            "url": "https://csslayout.io",
+            "pid": "fdb3e729-99fb-4ccd-818f-4991b31a7f90",
+            "id": "b56ef337-4b93-4167-b46e-0025593c1874",
+            "createTime": 1639114278394,
+            "star": true
+        },
+        {
+            "title": "Keyframes.app | CSS Toolbox",
+            "desc": "CSS 动画生成器",
+            "icon": "https://keyframes.app/img/icons/favicon-32x32.png",
+            "url": "https://keyframes.app/animate",
+            "pid": "63bb06de-b76b-454f-b3f8-f570b9555116",
+            "id": "6d8bb06d-d96b-48b1-bace-3e0d9b0eef35",
+            "createTime": 1639114416071
+        },
+        {
+            "title": "ColorSpace - 色彩生成器",
+            "desc": "在这里你可以为你的下一个项目找到完美的配色方案! 生成漂亮的调色板、颜色渐变和更多的东西! 你的空间里有一切与颜色有关的东西!",
+            "icon": "https://mycolor.space/favicon5.png",
+            "url": "https://mycolor.space",
+            "pid": "63bb06de-b76b-454f-b3f8-f570b9555116",
+            "id": "47b9ca88-0f9f-4632-8e9c-bdb9444be3ad",
+            "createTime": 1639114556745
+        },
+        {
+            "title": "All – Tiny Helpers",
+            "desc": "为网络开发者提供的免费单一用途的在线工具集...",
+            "icon": "https://tiny-helpers.dev/favicon-32x32.png",
+            "url": "https://tiny-helpers.dev",
+            "pid": "f5c1fe95-f899-4d42-8c06-497c0513dc0d",
+            "id": "3f410ecc-2cc5-48f4-ad97-685ad7c71790",
+            "createTime": 1639114802923
         }
     ]
 }
