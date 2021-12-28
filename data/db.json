@@ -1107,7 +1107,7 @@
             "createdTime": 1631497388474
         },
         {
-            "title": "问答社区1",
+            "title": "问答社区",
             "id": "d640da8b-238d-4f85-b027-5a0e7e4a6c2c",
             "pid": "62bfab1e-fcf8-4293-98b7-a02a6cf02faf",
             "createdTime": 1631497388474
@@ -6792,9 +6792,9 @@
             "createdTime": 1631497388473
         },
         {
-            "title": "InterviewMap",
-            "icon": "https://avatars1.githubusercontent.com/u/41361384?s=200&v=4",
-            "desc": "打造最好的面试图谱",
+            "title": "前端进阶之道",
+            "icon": "https://yuchengkai.cn/icon.png",
+            "desc": "不容错过的前端进阶资料",
             "url": "https://yuchengkai.cn/docs/zh/",
             "urls": {
                 "英文": "https://yuchengkai.cn/docs/",
@@ -6947,8 +6947,8 @@
             "createdTime": 1631497388473
         },
         {
-            "title": "Node.js",
-            "desc": "Node.js® 是一个基于 Chrome V8 引擎 的 JavaScript 运行时",
+            "title": "Node.js 中文网",
+            "desc": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型，使其轻量又高效。Node.js 的包管理器 npm，是全球最大的开源库生态系统。",
             "url": "http://nodejs.cn",
             "urls": {
                 "英文": "https://nodejs.org/en/",
@@ -6959,7 +6959,8 @@
             "top": false,
             "id": "04f1fa5d-d681-42d9-9947-8cf4bce99af3",
             "pid": "7b2d6e0f-f753-4d53-90e8-09b7c79a2672",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "icon": "http://img.nodejs.cn/favicon.png"
         },
         {
             "title": "npmjs",
@@ -10187,9 +10188,9 @@
             "createdTime": 1631497388474
         },
         {
-            "title": "掘金",
-            "icon": "https://b-gold-cdn.xitu.io/favicons/v2/apple-touch-icon.png",
-            "desc": "一个帮助开发者成长的社区",
+            "title": "掘金 - 代码不止，掘金不停",
+            "icon": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png",
+            "desc": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。",
             "url": "https://juejin.im/",
             "urls": {},
             "rate": 5,
@@ -10199,20 +10200,9 @@
             "createdTime": 1631497388474
         },
         {
-            "title": "DiyCode1",
-            "desc": "致力于构建开发工程师高端交流分享社区",
-            "url": "https://www.diycode.cc/",
-            "urls": {},
-            "rate": 5,
-            "top": false,
-            "id": "42392b8a-d10f-4e95-b06a-26ebd9d63a94",
-            "pid": "d640da8b-238d-4f85-b027-5a0e7e4a6c2c",
-            "createdTime": 1631497388474
-        },
-        {
-            "title": "黑客派",
-            "icon": "https://static.ld246.com/images/favicon.png",
-            "desc": "黑客派是程序员和设计师的聚集地，汇聚了严谨求实的工程师和富有创意的设计师",
+            "title": "链滴 - 记录生活，连接点滴",
+            "icon": "https://ld246.com/images/favicon.png",
+            "desc": "记录生活，连接点滴。",
             "url": "https://hacpai.com/",
             "urls": {},
             "rate": 5,
@@ -12023,16 +12013,6 @@
             "star": false
         },
         {
-            "id": "a35db95f-0e09-47a4-bc03-4f3847de2371",
-            "title": "度娘",
-            "createTime": 1625014720000,
-            "url": "https://www.baidu.com/",
-            "desc": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
-            "rate": 5,
-            "icon": "http://www.baidu.com/img/baidu_85beaf5496f291521eb75ba38eacbd87.svg",
-            "star": true
-        },
-        {
             "id": "0779965a-9847-4ebc-b03b-6cde685ae466",
             "pid": "f5c1fe95-f899-4d42-8c06-497c0513dc0d",
             "title": "前端导航",
@@ -12119,15 +12099,6 @@
             "rate": 5,
             "icon": "http://css.doyoe.com/doyoe.ico",
             "star": true
-        },
-        {
-            "id": "6d9de324-f013-48cc-855b-51273200e5bc",
-            "title": "Node.js v16.10.0 文档",
-            "createTime": 1623857123000,
-            "url": "http://nodejs.cn/api/addons.html",
-            "rate": 5,
-            "icon": "http://static.nodejs.cn/_static/img/favicon.png",
-            "star": false
         },
         {
             "title": "Sentry",
@@ -12390,6 +12361,15 @@
             "pid": "d0856b04-b972-4479-8aa4-b26fed04e20e",
             "id": "1e7bb352-fe97-4b06-9226-5f91078f2a70",
             "createTime": 1640680045861
+        },
+        {
+            "title": "大厂面试题每日一题",
+            "desc": "每天至少一个前端面试题，并附以答案及讨论。有关前端，后端，graphql，devops，微服务以及软技能，促进个人职业成长，敲开大厂之门。每天五分钟，半年大厂中",
+            "icon": "https://q.shanyue.tech/favicon.ico",
+            "url": "https://q.shanyue.tech",
+            "pid": "3bec0bfd-5876-44e1-9319-64fc2251f9aa",
+            "id": "28da8a35-df51-4ba1-b6dc-3f931e7c2440",
+            "createTime": 1640688803861
         }
     ]
 }
