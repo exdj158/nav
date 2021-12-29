@@ -1280,6 +1280,12 @@
             "pid": "f7079d04-1f0a-4c2a-85b0-f2950846fe73",
             "title": "存储",
             "createTime": 1640689075720
+        },
+        {
+            "title": "网站",
+            "pid": "55af8446-e910-46e2-a7e3-6907c94f1995",
+            "id": "1b86b093-55f8-433a-ae51-980290dc7815",
+            "createTime": 1640756563483
         }
     ],
     "website": [
@@ -11956,9 +11962,10 @@
             "desc": "开发者武器库，做开发者最专业最好用的专业工具箱",
             "icon": "https://devtool.tech/favicon.ico",
             "url": "https://devtool.tech",
-            "pid": "d0856b04-b972-4479-8aa4-b26fed04e20e",
+            "pid": "1b86b093-55f8-433a-ae51-980290dc7815",
             "id": "a6ac18c9-7594-427c-be55-b2f53703ac95",
-            "createTime": 1631698628903
+            "createTime": 1631698628903,
+            "star": true
         },
         {
             "title": "GitLab",
@@ -12022,24 +12029,24 @@
         {
             "id": "fe7e1ea3-15a9-4b63-a589-a0239be6dde9",
             "pid": "ee4468ed-8e2d-48ef-8c82-746bbda7b10a",
-            "title": "MDN",
+            "title": "JavaScript | MDN",
             "createTime": 1625538535000,
             "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-            "desc": "",
+            "desc": "JavaScript ( JS ) 是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。虽然它是作为开发Web 页面的脚本语言而出名的，但是它也被用到了很多非浏览器环境中，例如 Node.js、 Apache CouchDB 和 Adobe Acrobat。JavaScript 是一种基于原型编程、多范式的动态脚本语言，并且支持面向对象、命令式和声明式（如函数式编程）风格。了解更多 Java",
             "rate": 5,
-            "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABvklEQVQ4jZVTsZLaMBDdleEcIC0dDDP8BwW0NP4GPoGezt9ASw1fQWtqDy0VA5MELuZyGCNpXwpkn7i5FNHMjrS7T09P0i4TkRAR0/8NuJnZOfCzSqlqzcwEPNIiUoVLIvYUPJG4eAlWXsxXyzVPEhxQR1H0FkXRSxiGL0mSXI/H47fdbmeSJGkGQUDWWviHChFZ5+SLxeKML4bW+q3X6706nHhGwswSBMF9uVy+OjC01tYYI8YY0VoLAGy322wymZyazea1ImBmISIzm80OeZ5n1loBYAGIbyJiSzWbzeZXrVa7+Qpsu92+rFarfZ7nhbXWeiTOBbTW1lqLoiiyRqNx9d9A6vX6bTgc7tM0PQAQp6Q03O/3vFzP5/MfRHR36j8esdVqXafT6fF0Ov1xJBaAxHH8s9PpnMfj8WU0Gr0TUeHteyhgZktE6Pf7JzwuDWOMZFmWh2F487766ReqkgPAzIzD4fA9juMzMxdBEHCWZVc8klBKiVLKLzCmz4zO9GAw+L1ery9pmu6J6N3hrFczH3Xw2dwpIKJbt9vNmNl8gUPZC34PVCWqlCIRYS9eyi4xT4F/A5gBwCd6av2/1eqH5NIVtq4AAAAASUVORK5CYII=",
+            "icon": "https://developer.mozilla.org/favicon-48x48.97046865.png",
             "star": false
         },
         {
             "id": "05907bb2-63b3-47a2-9ee0-8d2f4b1d3806",
-            "pid": "88bf6b26-edf2-4bf8-944f-3eb47e8f9751",
+            "pid": "1b86b093-55f8-433a-ae51-980290dc7815",
             "title": "在线工具",
             "createTime": 1627988053000,
             "url": "https://tool.lu/",
             "desc": "",
             "rate": 5,
             "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAXklEQVQ4je2SwQmAQAwEJ4dlXTMRbCqCzXjWFR9yPxVMQHy4n+Sxs7CwgukKVGJqJQED1JKAARj649PyCJR5PC6mfmXqod18pnSFP+ALAWDqUWHqt0N6pUIBWhyXbQcIJUqOEqpEdgAAAABJRU5ErkJggg==",
-            "star": false
+            "star": true
         },
         {
             "id": "837afcef-4240-4775-944e-3c4773d4d7e9",
@@ -12221,9 +12228,10 @@
             "desc": "一个轻量的工具集合",
             "icon": "https://tools.miku.ac/favicon.ico",
             "url": "https://tools.miku.ac/",
-            "pid": "d0856b04-b972-4479-8aa4-b26fed04e20e",
+            "pid": "1b86b093-55f8-433a-ae51-980290dc7815",
             "id": "c9f19b65-76cb-4a89-9b4f-70ad8e55765d",
-            "createTime": 1635928888254
+            "createTime": 1635928888254,
+            "star": true
         },
         {
             "title": "DevDocs API Documentation",
