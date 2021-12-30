@@ -5047,22 +5047,7 @@
             "rate": 5,
             "top": false,
             "id": "3b41c0db-ebd1-4175-b305-b65c71cb854e",
-            "pid": "59aefcd0-0544-4521-aa88-ecbae625f101",
-            "createdTime": 1631497388473
-        },
-        {
-            "title": "next.js",
-            "desc": "服务端渲染框架、SEO解决方案",
-            "url": "https://www.nextjs.cn/",
-            "urls": {
-                "英文": "https://nextjs.org/",
-                "中文": "https://www.nextjs.cn/",
-                "Github": "https://github.com/zeit/next.js"
-            },
-            "rate": 5,
-            "top": false,
-            "id": "44493b4b-2615-4ac3-ae42-9ae696fce332",
-            "pid": "59aefcd0-0544-4521-aa88-ecbae625f101",
+            "pid": "726f2798-00d4-4f37-9916-b5ce13acece5",
             "createdTime": 1631497388473
         },
         {
@@ -12017,7 +12002,7 @@
         },
         {
             "id": "0779965a-9847-4ebc-b03b-6cde685ae466",
-            "pid": "f5c1fe95-f899-4d42-8c06-497c0513dc0d",
+            "pid": "334afbaf-422d-4f50-9452-a24db459892a",
             "title": "前端导航",
             "createTime": 1624880130000,
             "url": "https://www.kwgg2020.com/",
@@ -12072,11 +12057,11 @@
         },
         {
             "id": "57546694-a069-4252-8dc4-591444c0ce64",
-            "pid": "726f2798-00d4-4f37-9916-b5ce13acece5",
+            "pid": "7b49c1bf-a311-4325-a4ff-5788fdfc097b",
             "title": "react周刊",
             "createTime": 1625189485000,
             "url": "https://docschina.org/weekly/react/docs/",
-            "desc": "Description will go into a meta tag in <head />",
+            "desc": "关于 React 的文章、新闻和项目的周刊",
             "rate": 5,
             "icon": "https://docschina.org/weekly/react/img/favicon.ico",
             "star": true
@@ -12326,7 +12311,7 @@
         {
             "title": "minio",
             "icon": "http://www.exdj.xyz:9000/minio/favicon-32x32.png",
-            "url": "http://exdj.xyz:9000",
+            "url": "http://www.exdj.xyz:9000",
             "pid": "14e41299-d240-426b-a373-57c3247782ee",
             "id": "cd46fc28-7e00-447d-8e1a-e42d6d1f045a",
             "createTime": 1639555009641,
@@ -12342,7 +12327,7 @@
             "createTime": 1639978562449
         },
         {
-            "title": "Next.js - React 应用开发框架 | Next.js 中文网",
+            "title": "Next.js",
             "desc": "Next.js 支持规模化的生产级 React 应用程序。大量世界领先的公司都在使用 Next.js 来构建静态和动态网站及 web 应用。",
             "icon": "https://www.nextjs.cn/static/favicon/favicon-32x32.png",
             "url": "https://nextjs.cn",
@@ -12374,6 +12359,15 @@
             "pid": "334afbaf-422d-4f50-9452-a24db459892a",
             "id": "28da8a35-df51-4ba1-b6dc-3f931e7c2440",
             "createTime": 1640688803861
+        },
+        {
+            "title": "CSS Tricks",
+            "desc": "You-need-to-know-css,CSS tricks web developers need to know",
+            "icon": "https://lhammer.cn/static/favicon.ico",
+            "url": "https://lhammer.cn/You-need-to-know-css#/zh-cn/",
+            "pid": "6da087ad-8e3d-4584-afe1-d1cd363aa27b",
+            "id": "bb1cfd30-c829-4960-9ca4-4ab1cc66ab39",
+            "createTime": 1640775203706
         }
     ]
 }
