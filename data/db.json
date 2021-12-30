@@ -12368,6 +12368,15 @@
             "pid": "6da087ad-8e3d-4584-afe1-d1cd363aa27b",
             "id": "bb1cfd30-c829-4960-9ca4-4ab1cc66ab39",
             "createTime": 1640775203706
+        },
+        {
+            "title": "在线文字识别转换",
+            "desc": "免费的文字在线识别工具 - 通过图片识别文字，可保留原始格式，提供图像文字识别，提取图片文字，pdf文字识别，扫描文件识别服务、pdf转Word文档服务等。我们的Ocr服务支持中文、繁体中文、日语、韩语、英语、法语、俄语、德语等多种语言，输出结果支持PDF、Word和Txt格式。",
+            "icon": "https://ocr.wdku.net/favico.ico",
+            "url": "https://ocr.wdku.net",
+            "pid": "648dea33-bd08-42f6-a63c-8140f89d47a7",
+            "id": "208002a1-ca6a-4628-869e-e84297b9f747",
+            "createTime": 1640849882594
         }
     ]
 }
