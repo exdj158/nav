@@ -1286,6 +1286,12 @@
             "pid": "55af8446-e910-46e2-a7e3-6907c94f1995",
             "id": "1b86b093-55f8-433a-ae51-980290dc7815",
             "createTime": 1640756563483
+        },
+        {
+            "id": "602fcbd1-aa89-4c0c-bbd3-3f0c0be917a5",
+            "pid": "f7079d04-1f0a-4c2a-85b0-f2950846fe73",
+            "title": "CI",
+            "createTime": 1641779084337
         }
     ],
     "website": [
@@ -12377,6 +12383,15 @@
             "pid": "648dea33-bd08-42f6-a63c-8140f89d47a7",
             "id": "208002a1-ca6a-4628-869e-e84297b9f747",
             "createTime": 1640849882594
+        },
+        {
+            "title": "Drone CI",
+            "desc": "Drone is a self-service Continuous Integration platform for busy development teams.",
+            "icon": "http://94.74.100.230/favicon.png",
+            "url": "http://94.74.100.230:1080",
+            "pid": "602fcbd1-aa89-4c0c-bbd3-3f0c0be917a5",
+            "id": "16b6181c-3435-4799-976b-c5f4e0c8b086",
+            "createTime": 1641779134701
         }
     ]
 }
