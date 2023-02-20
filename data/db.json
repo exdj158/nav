@@ -1292,6 +1292,12 @@
             "pid": "f7079d04-1f0a-4c2a-85b0-f2950846fe73",
             "title": "CI",
             "createTime": 1641779084337
+        },
+        {
+            "id": "863aa993-5cc0-478f-8325-e8fbf06983e1",
+            "pid": "5e1c69dd-6a83-4b57-9b2d-ca6715e65343",
+            "title": "地图",
+            "createTime": 1676295418894
         }
     ],
     "website": [
@@ -4078,7 +4084,8 @@
             "top": false,
             "id": "f92c342c-35ff-41fb-913c-daae8a8c0ecd",
             "pid": "76355659-912b-49dd-859f-392a42ac5a8b",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "star": true
         },
         {
             "title": "flowy",
@@ -4115,7 +4122,8 @@
             "top": false,
             "id": "e842dbbc-e288-4fc2-a2b8-92b1e51cebf1",
             "pid": "76355659-912b-49dd-859f-392a42ac5a8b",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "star": true
         },
         {
             "title": "uikit",
@@ -6797,7 +6805,8 @@
             "top": false,
             "id": "6dc22bb1-5b8b-48a2-8da0-90c268ae8be1",
             "pid": "334afbaf-422d-4f50-9452-a24db459892a",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "star": true
         },
         {
             "title": "飞冰早报",
@@ -11280,7 +11289,8 @@
             "top": false,
             "id": "db542fe7-e307-4db6-a960-2ed977c3c13d",
             "pid": "334afbaf-422d-4f50-9452-a24db459892a",
-            "createdTime": 1631497388475
+            "createdTime": 1631497388475,
+            "star": true
         },
         {
             "title": "数据结构和算法动态可视化",
@@ -11998,15 +12008,6 @@
             "createTime": 1631859556801
         },
         {
-            "title": "改进优化点",
-            "icon": "https://confluence.datayes.com/s/zh_CN/7901/70b99a3474165a6093a2423f21069b9c63f07abc/13/_/favicon.ico",
-            "url": "https://confluence.datayes.com/pages/viewpage.action?pageId=90128218",
-            "pid": "499fe4a8-d5fa-46ec-8b43-8f6faeb82e06",
-            "id": "398f0aa8-9d0c-48c4-b624-6f9905d59ac0",
-            "createTime": 1631862179950,
-            "star": false
-        },
-        {
             "id": "0779965a-9847-4ebc-b03b-6cde685ae466",
             "pid": "334afbaf-422d-4f50-9452-a24db459892a",
             "title": "前端导航",
@@ -12187,24 +12188,6 @@
             "createTime": 1635245597565
         },
         {
-            "title": "consul",
-            "desc": "consul-stg",
-            "icon": "http://consul.wmcloud-stg.com/ui/static/favicon.png",
-            "url": "http://consul.wmcloud-stg.com/ui/#/dc1/kv/container/rrp/rrp-mgmt-CI/latest/hosts.json/edit",
-            "pid": "a8c265c2-cd7e-4d7d-ba85-fb88056db682",
-            "id": "d8c4b133-5368-4ad0-9c34-c9990ad90331",
-            "createTime": 1635332363434
-        },
-        {
-            "title": "consul",
-            "desc": "consul-qa",
-            "icon": "http://consul.wmcloud-stg.com/ui/static/favicon.png",
-            "url": "http://consul.wmcloud-qa.com/ui/#/dc1/kv/container/rrp/rrp-mgmt-CI/latest/hosts.json/edit",
-            "pid": "0ee952f4-5bf3-46d7-aa9f-b65b5a41fb67",
-            "id": "b794710c-8330-4fb9-aff6-885de0d462b7",
-            "createTime": 1635332413435
-        },
-        {
             "title": "DeepL翻译器",
             "desc": "使用免费的DeepL翻译器，以DeepL世界领先的神经网络技术为动力，用卓越的机器翻译来翻译你的文本。  目前支持的语言有：英语、德语、法语、西班牙语、葡萄牙语、意大利语、荷兰语、……",
             "icon": "https://www.deepl.com/img/favicon/favicon_16.png",
@@ -12330,7 +12313,8 @@
             "url": "https://remix.run",
             "pid": "726f2798-00d4-4f37-9916-b5ce13acece5",
             "id": "e4c0eae7-c599-4778-ab95-42330a684741",
-            "createTime": 1639978562449
+            "createTime": 1639978562449,
+            "star": false
         },
         {
             "title": "Next.js",
@@ -12364,7 +12348,8 @@
             "url": "https://q.shanyue.tech",
             "pid": "334afbaf-422d-4f50-9452-a24db459892a",
             "id": "28da8a35-df51-4ba1-b6dc-3f931e7c2440",
-            "createTime": 1640688803861
+            "createTime": 1640688803861,
+            "star": true
         },
         {
             "title": "CSS Tricks",
@@ -12392,6 +12377,52 @@
             "pid": "602fcbd1-aa89-4c0c-bbd3-3f0c0be917a5",
             "id": "16b6181c-3435-4799-976b-c5f4e0c8b086",
             "createTime": 1641779134701
+        },
+        {
+            "title": "中金研报",
+            "icon": "https://uat.rs.cicc.com/static/front/img/cicc.ico",
+            "url": "https://www.uat.rs.cicc.com/data/tSearch",
+            "pid": "78cd1bb5-2080-4a5c-9d2a-52641fdc2502",
+            "id": "3f701063-0fb7-475d-ba62-381e1e985138",
+            "createTime": 1676289509769
+        },
+        {
+            "title": "Documentation | Mapbox",
+            "desc": "Examples, tutorials, and API references to help you start building with Mapbox.",
+            "icon": "https://static-assets.mapbox.com/branding/favicon/v1/favicon-32x32.png?v=gAd4JjrGWl",
+            "url": "https://docs.mapbox.com",
+            "pid": "863aa993-5cc0-478f-8325-e8fbf06983e1",
+            "id": "b5324912-96b2-44b3-be6f-d6f85492bfbe",
+            "createTime": 1676295042865,
+            "star": true
+        },
+        {
+            "title": "Leaflet - a JavaScript library for interactive maps",
+            "icon": "https://leafletjs.com/docs/images/favicon.ico",
+            "url": "https://leafletjs.com",
+            "pid": "863aa993-5cc0-478f-8325-e8fbf06983e1",
+            "id": "535ef725-ae24-49dc-994f-2bf320a23d1d",
+            "createTime": 1676295126540,
+            "star": true
+        },
+        {
+            "title": "概述-地图 JS API v2.0 | 高德地图API",
+            "desc": "高德开放平台官网",
+            "icon": "https://a.amap.com/pc/static/favicon.ico",
+            "url": "https://lbs.amap.com/api/jsapi-v2/summary",
+            "pid": "863aa993-5cc0-478f-8325-e8fbf06983e1",
+            "id": "783f9758-0223-4bff-92aa-218f8d222817",
+            "createTime": 1676295425569
+        },
+        {
+            "title": "Free Icons, Clipart Illustrations, Photos, and Music",
+            "desc": "Download design elements for free: icons, photos, vector illustrations, and music for your videos. All the assets made by designers → consistent quality ⚡️",
+            "icon": "https://maxst.icons8.com/vue-static/landings/primary-landings/favs/icons8_fav_32%C3%9732.png",
+            "url": "https://icons8.com",
+            "pid": "61d16b41-2831-4599-b2b1-4c525445ae40",
+            "id": "b0016409-9a10-4abb-8044-d3bfb2452dee",
+            "createTime": 1676885624784,
+            "star": true
         }
     ]
 }
