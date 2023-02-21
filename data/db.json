@@ -12423,6 +12423,26 @@
             "id": "b0016409-9a10-4abb-8044-d3bfb2452dee",
             "createTime": 1676885624784,
             "star": true
+        },
+        {
+            "title": "usehooks-ts",
+            "desc": "Welcome to the documentation of usehooks-ts, a React hooks library, ready to use, written in typescript.",
+            "icon": "https://usehooks-ts.com/favicon-32x32.png?v=b6cde5600f130776baa96983927a61a1",
+            "url": "https://usehooks-ts.com/",
+            "pid": "59aefcd0-0544-4521-aa88-ecbae625f101",
+            "id": "c7b0ab39-a23c-4b13-aa3a-abdb707f5c07",
+            "createTime": 1676944354523,
+            "star": true
+        },
+        {
+            "title": "现代 JavaScript 教程",
+            "desc": "现代 JavaScript 教程：有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
+            "icon": "https://zh.javascript.info/img/favicon/favicon.png",
+            "url": "https://zh.javascript.info/",
+            "pid": "68ae1f15-a957-4873-bac8-265327c63c69",
+            "id": "7a331739-85c0-4143-a3b4-91f267df3d1e",
+            "createTime": 1676966117055,
+            "star": true
         }
     ]
 }
