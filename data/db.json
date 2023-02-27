@@ -12443,6 +12443,16 @@
             "id": "7a331739-85c0-4143-a3b4-91f267df3d1e",
             "createTime": 1676966117055,
             "star": true
+        },
+        {
+            "title": "《不可替代的团队领袖培养计划》 - 团队领袖计划",
+            "desc": "",
+            "icon": "https://leader.js.cool/favicon.ico",
+            "url": "https://leader.js.cool",
+            "pid": "24bf7f00-b913-4a2f-9918-07a0610c8c57",
+            "id": "59cd2589-db4b-4d41-95b1-a4ec8e67b006",
+            "createTime": 1677490885634,
+            "star": true
         }
     ]
 }
