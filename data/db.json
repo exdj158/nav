@@ -5117,8 +5117,8 @@
             "createdTime": 1631497388473
         },
         {
-            "title": "Vue.js",
-            "desc": "渐进式JavaScript 框架",
+            "title": "Vue.js - 渐进式 JavaScript 框架 | Vue.js",
+            "desc": "Vue.js - 渐进式的 JavaScript 框架",
             "url": "https://cn.vuejs.org/",
             "urls": {
                 "英文": "https://vuejs.org/index.html",
@@ -5129,11 +5129,12 @@
             "top": false,
             "id": "0e71b1f1-ddd3-4755-be0a-d2e256a7a818",
             "pid": "ff5ce181-7b0a-421f-94b9-a6e6ac4dff44",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "icon": "https://cn.vuejs.org/logo.svg"
         },
         {
-            "title": "Vue Router",
-            "desc": "Vue Router 是 Vue.js 官方的路由管理器",
+            "title": "Vue Router | Vue.js 的官方路由TwitterGitHubDiscordTwitterGitHubDiscord",
+            "desc": "Vue.js 的官方路由",
             "url": "https://router.vuejs.org/zh/",
             "urls": {
                 "英文": "https://router.vuejs.org/",
@@ -5144,11 +5145,12 @@
             "top": false,
             "id": "1e700bba-3adc-4c33-8f53-fb3328bfb609",
             "pid": "ff5ce181-7b0a-421f-94b9-a6e6ac4dff44",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "icon": "https://router.vuejs.org/logo.svg"
         },
         {
-            "title": "Vuex",
-            "desc": "Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。",
+            "title": "Vuex 是什么？ | Vuex",
+            "desc": "Vue.js 的中心化状态管理方案",
             "url": "https://vuex.vuejs.org/zh/",
             "urls": {
                 "英文": "https://vuex.vuejs.org/",
@@ -5159,7 +5161,8 @@
             "top": false,
             "id": "8be25582-ce84-4074-833c-e2c53cb37017",
             "pid": "ff5ce181-7b0a-421f-94b9-a6e6ac4dff44",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "icon": "https://vuex.vuejs.org/logo.png"
         },
         {
             "title": "vue-devtools",
@@ -5244,15 +5247,16 @@
             "createdTime": 1631497388473
         },
         {
-            "title": "vite",
+            "title": "Vite | 下一代的前端工具链MastodonTwitterDiscordGitHubMastodonTwitterDiscordGitHub",
             "desc": "Vite是一个经过验证的Web开发人员构建工具，可在开发过程中通过本机ES模块导入为您的代码提供服务，并将其与Rollup捆绑在一起进行生产",
-            "url": "https://github.com/vitejs/vite",
+            "url": "https://cn.vitejs.dev/",
             "urls": {},
             "rate": 5,
             "top": false,
             "id": "7d4ae5a8-d2e0-4419-81d2-4aaa6d8f7bfc",
             "pid": "ff5ce181-7b0a-421f-94b9-a6e6ac4dff44",
-            "createdTime": 1631497388473
+            "createdTime": 1631497388473,
+            "icon": "https://cn.vitejs.dev/logo.svg"
         },
         {
             "title": "Vue 组合式 API",
@@ -12455,6 +12459,16 @@
             "pid": "cf4a0ad9-8b9d-4e9c-98f6-e36c6a7163fe",
             "id": "6c21f094-8db6-4ecc-9b05-4db8fd21377f",
             "createTime": 1677725723155
+        },
+        {
+            "title": "DevDocs API Documentation",
+            "desc": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…",
+            "icon": "https://devdocs.io/favicon.ico",
+            "url": "https://devdocs.io",
+            "pid": "e16aafed-3535-4e05-aa72-78e3bcaa0216",
+            "id": "6fdc243d-3fcd-4bb2-8fc9-59262a067b20",
+            "createTime": 1680568075768,
+            "star": true
         }
     ]
 }
